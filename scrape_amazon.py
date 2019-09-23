@@ -1,3 +1,7 @@
+'''' Scrape the Amazon.com using requests and Beautiful Soup. Increasing the speed
+using the Threading/Processing/Pool in python'''
+__author__ = "Tushar SEth"
+__email__  = "tusharseth93@gmail.com"
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
